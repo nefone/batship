@@ -24,6 +24,7 @@ while (isSunk == false) {
         alert("Victory!!!");
     }
 }
+alert("Attemps: " + guesses);
 
 
 
